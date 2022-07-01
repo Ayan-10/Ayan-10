@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayan Sarkar</h1>
 <h3 align="center">Passionate Learner and Android Developer</h3>
 
+My most recent experience is being a [Google Summer of Code](https://summerofcode.withgoogle.com/programs/2022/projects/jVjoInw5) at Wikimedia Foundation. The project undertaken by me during all these experiences involves using various tech stacks and languages (like Android, Android Studio, Java, Kotlin, Rest APIs) to develop a working solution for the current problem statement keeping and making a significant business impact from my contribution. 
+
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/basic-prerequisites-of-learning-android-app-development/](https://www.geeksforgeeks.org/basic-prerequisites-of-learning-android-app-development/)
 
 - 📫 How to reach me **ayansarkar1810@gmail.com**
